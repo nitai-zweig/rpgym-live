@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.getsweatygames.reignandgain",
+      "sha256_cert_fingerprints": [
+        "30:E9:BF:FB:23:81:E3:20:4F:FA:C2:12:7F:DA:C0:C4:F3:5B:64:F2:6A:65:0D:5B:F3:9E:F0:FB:CA:88:95:D1",
+        "6B:5D:4B:FB:4E:04:0D:2E:24:AB:D3:EC:89:63:A5:1A:D0:62:A4:E3:03:E9:60:8A:92:B8:2B:A8:47:F9:AB:18"
+      ]
+    }
+  }
+]
